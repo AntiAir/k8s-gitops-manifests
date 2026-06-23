@@ -12,13 +12,13 @@ data:
         <style>
             body { font-family: sans-serif; text-align: center; margin-top: 10%; background-color: #f0f2f5; }
             .card { background: white; padding: 30px; display: inline-block; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-            h1 { color: #0066cc; }
+            h1 { color: #ff9900; }
         </style>
     </head>
     <body>
         <div class="card">
             <h1>🚀 歡迎來到 Kubernetes 實戰環境</h1>
-            <p>目前環境設定：<strong style="color: red;">PRODUCTION (生產環境)</strong></p>
+            <p>目前環境設定：<strong style="color: #ff9900;">🚨 V2.0 雲端 GitOps 自動部署版 🚨</strong></p>
             <p>Pod 運作狀態：正常常駐中</p>
         </div>
     </body>
