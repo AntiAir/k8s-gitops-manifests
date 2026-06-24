@@ -42,9 +42,9 @@ spec:
     spec:
       containers:
       - name: nginx-container
-        image: nginx:alpine
+        image: ghcr.io/antiair/python-flask-app:b88c46fe115c77cd8e2440b209492eb1175c31f6
         ports:
-        - containerPort: 80
+        - containerPort: 5000
         volumeMounts:
         - name: html-volume
           mountPath: /usr/share/nginx/html
@@ -64,5 +64,5 @@ spec:
   ports:
     - protocol: TCP
       port: 80
-      targetPort: 80
+      targetPort: 5000
       nodePort: 30080
