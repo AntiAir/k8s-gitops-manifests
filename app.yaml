@@ -8,7 +8,7 @@ data:
     <html>
     <head>
         <meta charset="utf-8">
-        <title>K8s 實戰環境</title>
+        <title>K8s 實戰環境第二天2026/6/24 (Wed)</title>
         <style>
             body { font-family: sans-serif; text-align: center; margin-top: 10%; background-color: #f0f2f5; }
             .card { background: white; padding: 30px; display: inline-block; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
@@ -17,7 +17,7 @@ data:
     </head>
     <body>
         <div class="card">
-            <h1>🚀 歡迎來到 Kubernetes 實戰環境</h1>
+            <h1>🚀 歡迎來到 Kubernetes 實戰環境第二天2026/6/24 (Wed)</h1>
             <p>目前環境設定：<strong style="color: #ff9900;">🚨 V2.0 雲端 GitOps 自動部署版 🚨</strong></p>
             <p>Pod 運作狀態：正常常駐中</p>
         </div>
